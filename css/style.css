@@ -1,0 +1,76 @@
+css
+/* Styles for the student portfolio (Deliverable 01) */
+
+/* font-family, font-size, color, background-color on the whole page */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #3c0433;
+  background-color: #eb87c0;
+  margin: 0;
+}
+
+/* header banner */
+header {
+  background-color: #5f1f55;
+  color: #e693c5;
+  padding: 24px;
+  text-align: center;
+}
+
+/* width and margin: keeps the content in a centered column */
+main {
+  width: 700px;
+  max-width: 90%;
+  margin: 20px auto;
+}
+
+/* border and padding around each section */
+.section {
+  background-color: #f3a1cb;
+  border: 2px solid #5f1f44;
+  padding: 16px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #450f4b;
+  font-size: 26px;
+}
+
+/* width and height set on the image */
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border: 3px solid #5f1f37;
+}
+
+input {
+  font-size: 16px;
+  padding: 6px;
+}
+
+button {
+  font-size: 16px;
+  color: #e27dd1;
+  background-color: #5f1f51;
+  padding: 8px 14px;
+  border: none;
+  cursor: pointer;
+}
+
+button:active {
+  font-size: 16px;
+  color: #e27dd1;
+  background-color: #42052a;
+  padding: 8px 14px;
+  border: none;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+  color: #360435;
+  font-size: 14px;
+  padding: 16px;
+}
