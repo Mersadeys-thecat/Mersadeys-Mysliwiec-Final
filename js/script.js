@@ -1,4 +1,4 @@
-// This script adds a greeting functionality to the portfolio page. When the user types their name into the input field and clicks the "Greet" button, a personalized greeting message will be displayed below the button. If the input field is empty, it prompts the user to enter their name first.
+// This script adds a greeting to the page. When the user types their name into the input field and clicks the "Greet" button, a personalized greeting message will be displayed below the button. If the input field is empty, it prompts the user to enter their name first.
 
 const button = document.querySelector("#greet-button");
 const nameInput = document.querySelector("#name-input");
