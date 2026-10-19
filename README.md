@@ -7,9 +7,9 @@ A personal website for my Software Systems class (152-110-100) that works as a p
 - `index.html` - main page
 - `css/styles.css` - styles
 - `js/script.js` - JavaScript
-- `images/` - images
+- `Images/` - Images
 - `pages/` - additional HTML pages (added later)
 
 ## Status
 
-Final Project Deliverable 01 - work in progress.
+Done.

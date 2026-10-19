@@ -27,7 +27,7 @@ catButton.addEventListener("click", function () {
   catFact.textContent = facts[index];
 });
 
-const catCorner = document.querySelector("#cat-image");
+const catCorner = document.querySelector("#cat-Image");
 const newCatButton = document.querySelector("#new-cat-button");
 
 const catPhotos = [
